@@ -1,0 +1,32 @@
+n9e:
+  endPoint: http://n9e-test.quanshi.com
+  userToken: xxx
+  userToken: xxx
+  rdbToken: xxx
+  amsToken: xxx
+  publicNid: "4707"
+console:
+  endPoint: http://10.255.1.111:7070
+jumpserver:
+  endPoint: http://jumper.quanshi.com
+  privateToken: xxxxx
+  orgName: 全时云
+  orgId: b28437f7-e38b-4488-9e35-1f436967ddd7
+  accessKey: xxx
+  secretKey: xxx
+  adminId: 3a9388d1-1d58-401e-a2fa-37f443c7e81f
+  adminUser: qsadmin
+  systemId: 6a261c04-405c-464d-a60b-0fce69260fb3
+  systemUser: sre
+aliyun:
+  - owner: xxx
+    accessKeyId: xxx
+    accessKeySecret: xxx
+    regionId: ""
+    name: 全时
+aws:
+  - owner: xxx
+    accessKeyId: xxxx
+    accessKeySecret: xxx
+    regionId: ""
+    name: 全时

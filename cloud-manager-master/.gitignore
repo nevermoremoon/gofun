@@ -1,0 +1,7 @@
+*.log
+.idea
+rsa
+log
+*.log
+*.yml
+cloud-manager*
